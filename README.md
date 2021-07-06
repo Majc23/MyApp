@@ -13,6 +13,8 @@ The app provides one screens:
 
 All cities are shown with an icon with the name and type of climate, the current temperature, minimum and maximum temperature of the day.
 
+The information displayed in the application is obtained from the API http://api.openweathermap.org/data/2.5/weather
+
 ## Installation
 
 To get started please follow the steps below:
